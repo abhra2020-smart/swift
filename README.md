@@ -37,9 +37,11 @@
 
 Swift is a high-performance system programming language.  It has a clean
 and modern syntax, offers seamless access to existing C and Objective-C code
-and frameworks, and is memory safe by default.
+and frameworks, and is memory safe by default. Swift is a very easy language
+to learn so you can even teach Swift to children (that is, if they want to learn
+programming). Swift is also a good first language to learn.
 
-Although inspired by Objective-C and many other languages, Swift is not itself a
+Although inspired by Objective-C and many other languages (like Python), Swift is not itself a
 C-derived language. As a complete and independent language, Swift packages core
 features like flow control, data structures, and functions, with high-level
 constructs like objects, protocols, closures, and generics. Swift embraces
@@ -55,14 +57,15 @@ To learn more about the programming language, visit [swift.org](https://swift.or
 
 ## Contributing to Swift
 
-Contributions to Swift are welcomed and encouraged! Please see the
+Contributions to Swift are welcomed and encouraged! Contributing is easier than you think.
+Please see the
 [Contributing to Swift guide](https://swift.org/contributing/).
 
-To be a truly great community, [Swift.org](https://swift.org/) needs to welcome
+To be a truly great community, [Swift.org](https://swift.org/) we are to welcome
 developers from all walks of life, with different backgrounds, and with a wide
 range of experience. A diverse and friendly community will have more great
 ideas, more unique perspectives, and produce more great code. We will work
-diligently to make the Swift community welcoming to everyone.
+diligently to make the Swift community welcoming to anyone.
 
 To give clarity of what is expected of our members, Swift has adopted the
 code of conduct defined by the Contributor Covenant. This document is used
@@ -162,3 +165,5 @@ view of the available documentation. In particular, the documents titled
 [Debugging the Swift Compiler](docs/DebuggingTheCompiler.md) and
 [Continuous Integration for Swift](docs/ContinuousIntegration.md) are very
 helpful to understand before submitting your first PR.
+
+Good luck!
